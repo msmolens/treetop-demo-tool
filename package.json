@@ -1,0 +1,18 @@
+{
+  "name": "treetop-demo-tool",
+  "version": "1.0.0",
+  "description": "Treetop Demo Tool",
+  "scripts": {
+    "lint": "eslint ./src",
+    "prettier": "prettier --check ./src",
+    "prettier:fix": "prettier --write ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Smolens <msmolens@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.3"
+  }
+}

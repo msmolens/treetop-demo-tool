@@ -1,0 +1,104 @@
+{
+  "toolbar_____": [
+    {
+      "title": "Getting Started",
+      "url": "https://www.mozilla.org/en-US/firefox/central/"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/",
+      "lastVisitTimeDays": 1
+    },
+    {
+      "title": "GitLab",
+      "url": "https://gitlab.com/"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "url": "https://aws.amazon.com/"
+    },
+    {
+      "title": "Google Cloud Platform (GCP)",
+      "url": "https://cloud.google.com/"
+    }
+  ],
+  "menu________": [
+    {
+      "title": "Mozilla Firefox",
+      "children": [
+        {
+          "title": "Help and Tutorials",
+          "url": "https://support.mozilla.org/en-US/products/firefox"
+        },
+        {
+          "title": "Customize Firefox",
+          "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars"
+        },
+        {
+          "title": "Get Involved",
+          "url": "https://www.mozilla.org/en-US/contribute/"
+        },
+        {
+          "title": "About Us",
+          "url": "https://www.mozilla.org/en-US/about/"
+        }
+      ]
+    }
+  ],
+  "unfiled_____": [
+    {
+      "title": "Web Extensions",
+      "children": [
+        {
+          "title": "Firefox Extension Workshop | Get help creating & publishing Firefox extensions.",
+          "url": "https://extensionworkshop.com/"
+        },
+        {
+          "title": "Browser Extensions - Mozilla | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions",
+          "lastVisitTimeDays": 1
+        },
+        {
+          "title": "Add-ons for Firefox",
+          "url": "https://addons.mozilla.org/en-US/firefox/",
+          "lastVisitTimeDays": 2
+        },
+        {
+          "title": "Bugzilla Main Page",
+          "url": "https://bugzilla.mozilla.org/home"
+        },
+        {
+          "title": "GitHub - mdn/webextensions-examples: Example Firefox add-ons created using the WebExtensions API",
+          "url": "https://github.com/mdn/webextensions-examples"
+        }
+      ]
+    },
+    {
+      "title": "Recipes",
+      "children": [
+        {
+          "title": "Recipe: Aaron's Fruit and Frangipane Galette — CIAO SAMIN",
+          "url": "http://ciaosamin.com/ciao/2016/3/10/recipe"
+        },
+        {
+          "title": "Focaccia Bread Recipe | Bon Appétit",
+          "url": "https://www.bonappetit.com/recipe/focaccia-bread",
+          "lastVisitTimeDays": 7
+        },
+        {
+          "title": "Back-of-the-Bag Oatmeal Bread | King Arthur Baking",
+          "url": "https://www.kingarthurbaking.com/recipes/back-of-the-bag-oatmeal-bread-recipe"
+        },
+        {
+          "title": "cherry clafoutis – smitten kitchen",
+          "url": "https://smittenkitchen.com/2007/07/cherry-clafoutis/",
+          "lastVisitTimeDays": 3
+        },
+        {
+          "title": "Thyme Popovers Recipe | Ina Garten | Food Network",
+          "url": "https://www.foodnetwork.com/recipes/ina-garten/thyme-popovers-recipe-1943196"
+        }
+      ]
+    }
+  ]
+}

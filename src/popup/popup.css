@@ -1,0 +1,18 @@
+html,
+body {
+  height: 260px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  font-weight: normal;
+  font-size: 1.5rem;
+  width: 100%;
+  margin: 3px auto;
+  padding: 12px;
+  cursor: pointer;
+}

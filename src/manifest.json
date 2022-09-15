@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Treetop Demo Tool",
+  "description": "Treetop Demo Tool",
+  "version": "1.0",
+  "author": "Max Smolens",
+  "homepage_url": "https://github.com/msmolens/treetop-demo-tool",
+  "icons": {
+    "48": "icons/treetop-demo-tool.png"
+  },
+  "background": {
+    "page": "background/background.html"
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "icons/treetop-demo-tool.png"
+    },
+    "default_title": "Treetop Demo Tool",
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": ["bookmarks", "downloads", "history", "storage", "<all_urls>"],
+  "web_accessible_resources": ["data/demo-bookmarks.json"]
+}
