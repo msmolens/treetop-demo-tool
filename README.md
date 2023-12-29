@@ -5,7 +5,7 @@ Browser extension to simplify creating up-to-date screenshots of the
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/) 16.x or greater
+- [Node.js](https://nodejs.org/) 20.x or greater
 - [web-ext](https://github.com/mozilla/web-ext) command line tool for web extensions
 - Firefox browser
 
