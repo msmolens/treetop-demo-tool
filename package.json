@@ -11,8 +11,8 @@
   "author": "Max Smolens <msmolens@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^8.23.1",
-    "prettier": "^2.7.1",
+    "eslint": "^8.56.0",
+    "prettier": "^3.1.1",
     "typescript": "^4.8.3"
   }
 }
